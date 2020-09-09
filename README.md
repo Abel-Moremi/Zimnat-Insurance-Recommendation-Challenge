@@ -20,3 +20,4 @@ A few sources I used as reference to build this model
 - [Official CatBoost toturials](https://github.com/catboost/tutorials)
 - [Starter Notebook](https://github.com/Tixonmavrin/Zindi-Zimnat-Insurance-Recommendation-Challenge) by @Tixonmavrin
 - [CatBoost + Hyperopt](https://www.kaggle.com/redroy44/catboost-hyperopt) notebook from Kaggle
+- [Hyperopt](https://www.kaggle.com/donkeys/exploring-hyperopt-parameter-tuning) explained using a Kaggle Notebook
