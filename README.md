@@ -14,6 +14,15 @@ In this competition, I had to leverage data and ML methods to improve market out
 
 The challenge: for around 10,000 customers in the test set, you are given all but one of the products they own, and are asked to make predictions around which products are most likely to be the missing product. This same model can then be applied to any customer to identify insurance products that might be useful to them given their current profile.
 
+### ACHIEVED
+My model showed an accuray of 88%. The competition was LogLoss based and the wining score was;
+
+ >**1.**&nbsp; &nbsp; 0.0257791962348658 while my score was <br>
+ >**136.** 0.0270173057787667 ([Leaderboard](https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge/leaderboard?page=3))
+
+I learned a ton and considering this is my first realy competative competition, I did very well 😂😁
+
+
 ### RESOURCES 
 A few sources I used as reference to build this model
 
